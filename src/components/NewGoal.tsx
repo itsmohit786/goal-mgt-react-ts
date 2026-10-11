@@ -29,7 +29,7 @@ const NewGoal = ({ onAddGoal }: NewGoalProps) => {
         <input type="text" id="summary" name="summary" ref={summary} />
       </p>
       <p>
-        <button>Add the Goal</button>
+        <button>Add a Goal</button>
       </p>
     </form>
   );
